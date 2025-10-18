@@ -16,7 +16,7 @@ This Privacy Policy explains what information RoSystem collects and how it’s u
 - We do not sell or share your data with third parties.
 
 ## 4. User Control
-- Server admins can remove RoSystem at any time, which stops all data collection for that server.
+- Server admins can remove RoSystem at any time, which stops all data for that server.
 
 ## 5. Security
 - Reasonable measures are taken to protect stored data, but we cannot guarantee complete security.
