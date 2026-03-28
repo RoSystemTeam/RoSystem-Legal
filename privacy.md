@@ -17,6 +17,7 @@ This Privacy Policy explains what information RoSystem collects and how it’s u
 
 ## 4. User Control
 - Server admins can remove the RoSystem bot at any time, which stops all data for that server.
+- Users can request the removal of their data by support tickets.
 
 ## 5. Security
 - Reasonable measures are taken to protect stored data, but we cannot guarantee complete security.
